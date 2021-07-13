@@ -1,0 +1,15 @@
+{
+  "name": "nexmo-messages-dispatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "KittPhi <Kitt.Phi@gmail.co>",
+  "license": "Vonage",
+  "dependencies": {
+    "nexmo": "^2.7.0-beta-1"
+  }
+}
